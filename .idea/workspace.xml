@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85b1d897-6b7b-4eeb-9b5c-d89b2e19d482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/SquareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/ForLoop100to1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SquareNumber">
+  <component name="RunManager" selected="Application.ForLoop100to1">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Calculator" />
       <module name="Java_Practice_Coding" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Positive_Nagative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Positive_Nagative" />
+    <configuration name="ForLoop100to1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.ForLoop100to1" />
       <module name="Java_Practice_Coding" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop100to1" />
         <item itemvalue="Application.SquareNumber" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.WeekName" />
-        <item itemvalue="Application.Positive_Nagative" />
       </list>
     </recent_temporary>
   </component>
